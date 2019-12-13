@@ -17,7 +17,7 @@ Nosso Aplicativo vem de um problema bem comum entre as escolas: mal desempenho d
 
 ## A solução
 
-<a href="https://vimeo.com/user106221644/review/379175878/58d4e2e0b1">Video Explicativo</a>
+<a href="https://youtu.be/e0BrZQDex74">Video Explicativo</a>
 
 Nossa solução busca aproximar a escola com pais de alunos. Com o aplicativo, cada pai poderá ter informações passadas de professores e diretores da escola como comunicados, desempenho, notas, se está indo bem, se passou mal e eventualidades com seu filho. Com isso é possível que o pai tenha um maior entendimento sobre a situação real do seu filho e aumentar a interação entre escola e pais.
 
