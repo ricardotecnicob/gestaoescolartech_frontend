@@ -1,68 +1,74 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+<a href="#" alt="Gestão Escolar Tech Web">
+  </a></p>
 
-## Available Scripts
+# Gestão Escolar Tech - Web
 
-In the project directory, you can run:
+Aplicação para divulgação e Marketing do aplicação Gestão Escolar Tech - Mobile
+<a href="https://github.com/ricardotecnicob/gestaoescolartech_mobile">Gestão Escolar Tech - Mobile</a>
 
-### `yarn start`
+Desenvolvido em React JS para o Hackaton da Total Voice 2019 organizado pela Shawee.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Descrição do Problema
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Nosso Aplicativo vem de um problema bem comum entre as escolas: mal desempenho do fillho, a desconexão de pais e escola, a familia não liga ou não pode acompanhar o desempenho do seu filho na escola, as vezes por motivo dele não ter uma pessoa que o oriente ou ate mesmo pela dura realidade da familia ter que trabalhar 8h ou até mais de oito horas para trazer sustento para sua casa.
 
-### `yarn test`
+## A solução
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Nossa solução busca aproximar a escola com pais de alunos. Com o aplicativo, cada pai poderá ter informações passadas de professores e diretores da escola como comunicados, desempenho, notas, se está indo bem, se passou mal e eventualidades com seu filho. Com isso é possível que o pai tenha um maior entendimento sobre a situação real do seu filho e aumentar a interação entre escola e pais.
 
-### `yarn build`
+## Imagens da Aplicação
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Página inicial
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<img src="./assets/images/foto01.jpg" width="70%">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Sobre
 
-### `yarn eject`
+<img src="./assets/images/foto02.jpg" width="70%">
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Recursos
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img src="./assets/images/foto03.jpg" width="70%">
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Preços
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<img src="./assets/images/foto04.jpg" width="70%">
 
-## Learn More
+Nosso Time
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<img src="./assets/images/foto05.jpg" width="70%">
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Download e Newsletter
 
-### Code Splitting
+<img src="./assets/images/foto06.jpg" width="70%">
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Contato
 
-### Analyzing the Bundle Size
+<img src="./assets/images/foto07.jpg" width="70%">
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## Instalação
 
-### Making a Progressive Web App
+Instale as dependencias necessárias.
+console
+yarn install ou npm install
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+## Execução
 
-### Advanced Configuration
+Na pasta raíz do projeto execute o metro bundler em um terminal.
+console
+yarn start
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+Abra [http://localhost:3000](http://localhost:3000) em seu browser.
 
-### Deployment
+## Time
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+- Ricardo Alves
+- Leonardo
+- Eduardo Quintino
+- Espaker
+- Felipe
 
-### `yarn build` fails to minify
+## Licensa
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+MIT
