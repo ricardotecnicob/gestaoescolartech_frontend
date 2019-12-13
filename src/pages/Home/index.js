@@ -9,8 +9,8 @@ import imagem10 from '../../assets/images/img1.jpg';
 import imagem11 from '../../assets/images/img2.jpg';
 import imagem12 from '../../assets/images/img3.jpg';
 import imagem13 from '../../assets/images/img4.jpg';
+import imagem14 from '../../assets/images/img5.jpg';
 
-import imagem14 from '../../assets/images/author1.jpg';
 import imagem15 from '../../assets/images/author2.jpg';
 import imagem16 from '../../assets/images/author3.jpg';
 
@@ -286,8 +286,8 @@ const Home = () => {
                                 <div className="team-item">
                                     <img src={imagem12} alt="mobile image" />
                                     <div className="tmember-info">
-                                        <h4>John Deo</h4>
-                                        <span>front-end developer</span>
+                                        <h4>Felipe</h4>
+                                        <span>Mobile / Front-end</span>
                                         <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusm tempor incididunt ut labore et</p>
                                         <div className="social-btns">
                                             <a href="#"><i className="fa fa-facebook"></i></a>
@@ -303,8 +303,8 @@ const Home = () => {
                                 <div className="team-item">
                                     <img src={imagem13} alt="mobile image" />
                                     <div className="tmember-info">
-                                        <h4>John Deo</h4>
-                                        <span>front-end developer</span>
+                                        <h4>Espaker</h4>
+                                        <span>Backend</span>
                                         <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusm tempor incididunt ut labore et</p>
                                         <div className="social-btns">
                                             <a href="#"><i className="fa fa-facebook"></i></a>
@@ -318,10 +318,10 @@ const Home = () => {
 
                             <div className="col-md-3 col-sm-6 col-xs-12">
                                 <div className="team-item">
-                                    <img src={imagem13} alt="mobile image" />
+                                    <img src={imagem14} alt="mobile image" />
                                     <div className="tmember-info">
-                                        <h4>John Deo</h4>
-                                        <span>front-end developer</span>
+                                        <h4>Leonardo</h4>
+                                        <span>Mobile / Desing</span>
                                         <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusm tempor incididunt ut labore et</p>
                                         <div className="social-btns">
                                             <a href="#"><i className="fa fa-facebook"></i></a>
