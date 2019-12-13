@@ -5,9 +5,9 @@
 # Gestão Escolar Tech - Web
 
 Aplicação para divulgação e Marketing do aplicação 
-<a href="https://github.com/ricardotecnicob/gestaoescolartech_backend">Gestão Escolar Tech - Mobile</a>
+<a href="https://github.com/ricardotecnicob/gestaoescolartech_mobile">Gestão Escolar Tech - Mobile</a>
 
-App consumindo Backend em Python, <a href="https://github.com/ricardotecnicob/gestaoescolartech_mobile">acesse aqui!</a>
+App consumindo Backend em Python, <a href="https://github.com/ricardotecnicob/gestaoescolartech_backend">acesse aqui!</a>
 
 Desenvolvido em React JS para o Hackaton da Total Voice 2019 organizado pela Shawee.
 
